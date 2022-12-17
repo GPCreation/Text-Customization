@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Customization/static/css/main.e6c13ad2.css",
+    "main.js": "/Text-Customization/static/js/main.0b602c61.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Text-Customization/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Text-Customization/index.html",
+    "main.e6c13ad2.css.map": "/Text-Customization/static/css/main.e6c13ad2.css.map",
+    "main.0b602c61.js.map": "/Text-Customization/static/js/main.0b602c61.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Text-Customization/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0b602c61.js"
+  ]
+}
